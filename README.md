@@ -13,7 +13,8 @@ Automated Job Digest Integration: Building on the existing Python-based job dige
 User-Facing Interface: A lightweight interface (e.g., Streamlit or email-based reports) presents curated job lists, insights, and recommendations in a clear, actionable format.
 The practical impact of this project lies in transforming a passive job search into an active, data-driven strategy. Rather than manually filtering through listings or guessing which roles are the best fit, users receive structured guidance grounded in real-time market data and AI reasoning. This is particularly valuable for engineering students entering competitive industries, where aligning skills, applications, and timing can significantly influence outcomes. By integrating automation, personalization, and generative AI, the AI Career Strategy Planner offers a scalable and innovative approach to career development—turning raw job data into meaningful, strategic decisions.
 
-Resources
+Resources:
+
 The AI Career Strategy Planner will leverage a combination of existing code infrastructure, open-source tools, and external data sources to enable rapid development and scalability.
 Open-Source Repositories and Tools
 The project will build upon several widely used open-source frameworks and libraries:
