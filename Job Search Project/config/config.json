@@ -1,0 +1,21 @@
+{
+  "job_apis": {
+    "adzuna": {
+      "app_id": "YOUR_ADZUNA_APP_ID",
+      "app_key": "YOUR_ADZUNA_APP_KEY"
+    },
+    "greenhouse": {
+      "api_key": "YOUR_GREENHOUSE_API_KEY"
+    },
+    "workday": {
+      "base_url": "YOUR_WORKDAY_BASE_URL"
+    }
+  },
+  "ai": {
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "llm_model": "gpt-3.5-turbo"
+  },
+  "database": {
+    "path": "data/jobs.db"
+  }
+}
